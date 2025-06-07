@@ -29,3 +29,9 @@ fp-info-cache
 # Exported BOM files
 *.xml
 *.csv
+
+# Ignorar archivos de respaldo automático de KiCad
+*#auto_saved_files#
+
+# Ignorar archivos temporales adicionales
+*.lck
