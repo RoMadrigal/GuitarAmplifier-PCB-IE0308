@@ -38,5 +38,8 @@ El circuito completo del que partimos para diseñar la PCB fue primeramente fue 
 
 </div>
 
-A continuación se realiza una breve descripción del propósito y funcionamiento de cada etapa del circuito, así como los componentes utilizados. 
+> [!NOTE]
+> La documentación detallada de funcionamiento de cada etapa del circuito, elección de componentes, y consideraciones de diseño está disponible en la documentación adicional asociada al proyecto (ver `Wiki` de este repostitorio).
+
+## Diseño de la PCB
 
