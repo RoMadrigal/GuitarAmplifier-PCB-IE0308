@@ -1557,7 +1557,7 @@
 				)
 			)
 		)
-		(symbol "TL072CP2:TL072CP"
+		(symbol "TL072CP:TL072CP"
 			(pin_names
 				(offset 0.762)
 			)
@@ -6508,7 +6508,7 @@
 		)
 	)
 	(symbol
-		(lib_id "TL072CP2:TL072CP")
+		(lib_id "TL072CP:TL072CP")
 		(at 166.37 119.38 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -7206,7 +7206,7 @@
 		)
 	)
 	(symbol
-		(lib_id "TL072CP2:TL072CP")
+		(lib_id "TL072CP:TL072CP")
 		(at 162.56 49.53 0)
 		(unit 1)
 		(exclude_from_sim no)

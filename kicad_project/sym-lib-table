@@ -1,5 +1,4 @@
 (sym_lib_table
   (version 7)
-  (lib (name "TL072CP")(type "KiCad")(uri "D:/UCR/Carrera/Lab Electrónica I/Proyecto Final/Modelo TL072CP KiCAD/KiCADv6/2025-06-12_06-57-08.kicad_sym")(options "")(descr ""))
-  (lib (name "TL072CP2")(type "KiCad")(uri "D:/UCR/Carrera/Lab Electrónica I/Proyecto Final/GuitarAmplifier-PCB-IE0308/kicad_project/TL072CP.kicad_sym")(options "")(descr ""))
+  (lib (name "TL072CP")(type "KiCad")(uri "${KIPRJMOD}/TL072CP.kicad_sym")(options "")(descr ""))
 )
