@@ -106,16 +106,32 @@ Además, se agregaron zonas de serigrafía, agujeros de montaje, y textos identi
 
 <div align="center">
 
-| ![Capa F.Cu](images/F_Cu.png) | ![Capa B.Cu](images/B_Cu.png) |
-|:-----------------------------:|:-----------------------------:|
-| *Capa superior (F.Cu)*        | *Capa inferior (B.Cu)*        |
+| ![Capa F.Cu](images/F_Cu.png) |
+|:-----------------------------:|
+|    *Capa superior (F.Cu)*     |
 
 </div>
 
 <div align="center">
 
-| ![In1.Cu - Alimentación](images/In1_Cu.png) | ![In2.Cu - Tierra](images/In2_Cu.png) |
-|:------------------------------------------:|:-----------------------------------:|
-| *Capa interna 1 - +9V / +4.5V*              | *Capa interna 2 - GND*               |
+| ![Capa B.Cu](images/B_Cu.png) |
+|:-----------------------------:|
+|    *Capa inferior (B.Cu)*     |
+
+</div>
+
+<div align="center">
+
+| ![In1.Cu - Alimentación](images/In1_Cu.png) |
+|:-------------------------------------------:|
+|      *Capa interna 1 - +9V / +4.5V*         |
+
+</div>
+
+<div align="center">
+
+| ![In2.Cu - Tierra](images/In2_Cu.png) |
+|:-------------------------------------:|
+|        *Capa interna 2 - GND*         |
 
 </div>
