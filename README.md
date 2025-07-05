@@ -70,16 +70,41 @@ El circuito completo del que partimos para diseñar la PCB fue primeramente fue 
 
 ### Lista de componentes
 
-A continuación se incluye una lista con los principales componentes utilizados en el diseño:
+A continuación se incluye una lista con los principales componentes utilizados en el diseño, con el mismo número que se les asignó en el diseño final de PCB:
 
 <div align="center">
 
 |   Componente   |   Valor / Modelo    |    Descripción    |
 |:--------------:|:-------------------:|:-----------------:|
-| Ejemplo: R1    |     10 kΩ           |   Resistencia     |
+| Ejemplo: R1 / R2   |     1 kΩ           |   Resistencia     |
+| Ejemplo: R3    |     10 kΩ           |   Resistencia     |
+| Ejemplo: R4    |     10 kΩ           |   Resistencia     |
+| Ejemplo: R5    |     10 kΩ           |   Resistencia     |
+| Ejemplo: R6    |     10 kΩ           |   Resistencia     |
+| Ejemplo: R7    |     10 kΩ           |   Resistencia     |
+| Ejemplo: R8    |     10 kΩ           |   Resistencia     |
+| Ejemplo: R9    |     10 kΩ           |   Resistencia     |
+| Ejemplo: R10    |     10 kΩ           |   Resistencia     |
+| Ejemplo: R11    |     10 kΩ           |   Resistencia     |
+| Ejemplo: R12    |     10 kΩ           |   Resistencia     |
+| Ejemplo: C1    |     100 nF          | Capacitor cerámico |
 | Ejemplo: C2    |     100 nF          | Capacitor cerámico |
-| Ejemplo: U1    |     TL072CP         | Amplificador operacional |
-| Ejemplo: U2    |     LM386           | Amplificador de potencia |
+| Ejemplo: C3    |     100 nF          | Capacitor cerámico |
+| Ejemplo: C4    |     100 nF          | Capacitor cerámico |
+| Ejemplo: C5    |     100 nF          | Capacitor cerámico |
+| Ejemplo: C6    |     100 nF          | Capacitor cerámico |
+| Ejemplo: C7    |     100 nF          | Capacitor cerámico |
+| Ejemplo: C8    |     100 nF          | Capacitor cerámico |
+| Ejemplo: C9    |     100 nF          | Capacitor cerámico |
+| Ejemplo: C10    |     100 nF          | Capacitor cerámico |
+| Ejemplo: C11    |     100 nF          | Capacitor cerámico |
+| Ejemplo: C12    |     100 nF          | Capacitor cerámico |
+| Ejemplo: C13    |     100 nF          | Capacitor cerámico |
+| Ejemplo: C14    |     100 nF          | Capacitor cerámico |
+| Ejemplo: C15    |     100 nF          | Capacitor cerámico |
+| Ejemplo: C16    |     100 nF          | Capacitor cerámico |
+| Ejemplo: U1 / U2   |     TL072CP      | Amplificador operacional |
+| Ejemplo: U3    |     LM386            | Amplificador de potencia |
 
 </div>
 
@@ -87,12 +112,12 @@ A continuación se incluye una lista con los principales componentes utilizados 
 
 Una vez definido el circuito final, se diseñó la PCB en *KiCad* con una arquitectura de **cuatro capas**:
 
-- **F.Cu**: Ruta de señales superiores
+- **F.Cu**: Ruta de señales
 - **In1.Cu**: Plano de alimentación (+9V y +4.5V)
 - **In2.Cu**: Plano de tierra (GND)
-- **B.Cu**: Ruta de señales inferiores
+- **B.Cu**: Ruta de señales
 
-Además, se agregaron zonas de serigrafía, agujeros de montaje, y textos identificativos en silkscreen con el nombre del proyecto y los autores.
+Además, se agregaron zonas de serigrafía, agujeros de montaje, así como textos identificativos y logotipos en el *silkscreen* con el nombre del proyecto y los autores.
 
 <div align="center">
 
