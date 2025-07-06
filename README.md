@@ -42,16 +42,16 @@ Una vez recibidas las placas de **PCBWay**, se procedió con el ensamblaje manua
 A continuación, se presentan videos demostrativos del amplificador montado, funcionando correctamente tanto con una guitarra eléctrica como con un teléfono móvil:
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=LINK_GUITARRA" target="_blank">
-    <img src="images/thumb_guitarra.jpg" alt="Demo con guitarra eléctrica" width="480"/>
+  <a href="https://youtu.be/fU8gYd2I1fY" target="_blank">
+    <img src="images/GuiVid.png" alt="Demo con guitarra eléctrica" width="480"/>
   </a>
   <br/>
   <em>Demostración del amplificador conectado a una guitarra eléctrica</em>
 </p>
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=LINK_TELEFONO" target="_blank">
-    <img src="images/thumb_telefono.jpg" alt="Demo con teléfono móvil" width="480"/>
+  <a href="https://youtu.be/jr76lwe1I88" target="_blank">
+    <img src="images/SmPVid.png" alt="Demo con teléfono móvil" width="480"/>
   </a>
   <br/>
   <em>Demostración del amplificador reproduciendo audio desde un teléfono</em>
