@@ -15,7 +15,9 @@ Este repositorio y sus contenidos fueron diseñados durante el curso IE0308 dura
 
 ## Agradecimientos a PCBWay
 
-Queremos expresar nuestro agradecimiento a **PCBWay** por su colaboración y apoyo en la fabricación de nuestras PCBs. La calidad de las placas recibidas, tanto en precisión de fabricación como en acabados, fue sobresaliente. Todo el proceso —desde la carga de archivos hasta la recepción del paquete— fue ágil, transparente y eficiente.
+Queremos expresar nuestro agradecimiento a **PCBWay** por su colaboración y apoyo en la fabricación de nuestras PCBs. La calidad de las placas recibidas, tanto en precisión de fabricación como en acabados, fue sobresaliente. Todo el proceso desde la carga de archivos hasta la recepción del paquete fue ágil, transparente y eficiente. 
+
+Además siempre estuvieron disponibles para cualquier consulta, para asegurarse de que todo saliera según lo planeado, lo cual nos brindó mucho soporte y seguridad durante todo el proceso de pedido.
 
 ### PCB ensamblada
 
@@ -23,7 +25,7 @@ Una vez recibidas las placas de **PCBWay**, se procedió con el ensamblaje manua
 
 <div align="center">
 
-| ![PCB ensamblada - vista frontal](images/PCB_Alone.jpg) |
+| ![PCB ensamblada - sin los componentes externos conectados](images/PCB_Alone.jpg) |
 |:--:|
 | *PCB ensamblada - sin los componentes externos conectados* |
 
@@ -31,7 +33,7 @@ Una vez recibidas las placas de **PCBWay**, se procedió con el ensamblaje manua
 
 <div align="center">
 
-| ![PCB ensamblada - vista isométrica](images/PCB_Build.jpg) |
+| ![PCB ensamblada - con los componentes externos conectados](images/PCB_Build.jpg) |
 |:--:|
 | *PCB ensamblada - con los componentes externos conectados* |
 
@@ -39,7 +41,7 @@ Una vez recibidas las placas de **PCBWay**, se procedió con el ensamblaje manua
 
 ### Demostración de funcionamiento
 
-A continuación, se presentan videos demostrativos del amplificador montado, funcionando correctamente tanto con una guitarra eléctrica como con un teléfono móvil:
+A continuación, se presentan vídeos demostrativos del amplificador montado, funcionando correctamente tanto con una guitarra eléctrica como con un teléfono:
 
 <p align="center">
   <a href="https://youtu.be/fU8gYd2I1fY" target="_blank">
@@ -57,7 +59,7 @@ A continuación, se presentan videos demostrativos del amplificador montado, fun
   <em>Demostración del amplificador reproduciendo audio desde un teléfono</em>
 </p>
 
-Gracias a su servicio confiable, logramos ensamblar y probar con éxito nuestro amplificador, cumpliendo los objetivos del proyecto. Recomendamos sus servicios para estudiantes, profesionales o cualquier persona interesada en manufacturar PCBs de alta calidad. Más información en [pcbway.com](https://www.pcbway.com).
+Gracias a su servicio confiable y de altísima calidad, logramos ensamblar y probar con éxito nuestro amplificador, cumpliendo los objetivos del proyecto. Recomendamos sus servicios para estudiantes, profesionales y cualquier persona interesada en manufacturar PCBs de alta calidad. Más información en [pcbway.com](https://www.pcbway.com).
 
 ## Organización y contenido de los directorios 
 
@@ -89,7 +91,7 @@ El circuito completo del que partimos para diseñar la PCB fue primeramente fue 
 
 ### Lista de componentes
 
-A continuación se incluye una lista con los principales componentes utilizados en el diseño, con el mismo número que se les asignó en el diseño final de PCB:
+A continuación se incluye una lista con los componentes utilizados en el diseño, con el mismo número que se les asignó en el diseño final de PCB:
 
 <div align="center">
 
