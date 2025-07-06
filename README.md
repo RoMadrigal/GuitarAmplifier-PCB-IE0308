@@ -95,35 +95,30 @@ A continuación se incluye una lista con los principales componentes utilizados 
 
 |   Componente   |   Valor / Modelo    |    Descripción    |
 |:--------------:|:-------------------:|:-----------------:|
-| Ejemplo: R1 / R2   |     1 kΩ           |   Resistencia     |
-| Ejemplo: R3    |     10 kΩ           |   Resistencia     |
-| Ejemplo: R4    |     10 kΩ           |   Resistencia     |
-| Ejemplo: R5    |     10 kΩ           |   Resistencia     |
-| Ejemplo: R6    |     10 kΩ           |   Resistencia     |
-| Ejemplo: R7    |     10 kΩ           |   Resistencia     |
-| Ejemplo: R8    |     10 kΩ           |   Resistencia     |
-| Ejemplo: R9    |     10 kΩ           |   Resistencia     |
-| Ejemplo: R10    |     10 kΩ           |   Resistencia     |
-| Ejemplo: R11    |     10 kΩ           |   Resistencia     |
-| Ejemplo: R12    |     10 kΩ           |   Resistencia     |
-| Ejemplo: C1    |     100 nF          | Capacitor cerámico |
-| Ejemplo: C2    |     100 nF          | Capacitor cerámico |
-| Ejemplo: C3    |     100 nF          | Capacitor cerámico |
-| Ejemplo: C4    |     100 nF          | Capacitor cerámico |
-| Ejemplo: C5    |     100 nF          | Capacitor cerámico |
-| Ejemplo: C6    |     100 nF          | Capacitor cerámico |
-| Ejemplo: C7    |     100 nF          | Capacitor cerámico |
-| Ejemplo: C8    |     100 nF          | Capacitor cerámico |
-| Ejemplo: C9    |     100 nF          | Capacitor cerámico |
-| Ejemplo: C10    |     100 nF          | Capacitor cerámico |
-| Ejemplo: C11    |     100 nF          | Capacitor cerámico |
-| Ejemplo: C12    |     100 nF          | Capacitor cerámico |
-| Ejemplo: C13    |     100 nF          | Capacitor cerámico |
-| Ejemplo: C14    |     100 nF          | Capacitor cerámico |
-| Ejemplo: C15    |     100 nF          | Capacitor cerámico |
-| Ejemplo: C16    |     100 nF          | Capacitor cerámico |
-| Ejemplo: U1 / U2   |     TL072CP      | Amplificador operacional |
-| Ejemplo: U3    |     LM386            | Amplificador de potencia |
+| R1 / R2   |     1 kΩ           |   Resistor de película metálica    |
+| R3    |     1 MΩ           |   Resistor de película metálica     |
+| R4    |     100 Ω           |   Resistor de película metálica     |
+| R5    |     10 kΩ           |   Resistor de película metálica     |
+| R6    |     3 kΩ           |   Resistor de película metálica     |
+| R7 / R8    |     1.5 kΩ     |   Resistor de película metálica     |
+| R9    |     3.3 kΩ           |   Resistor de película metálica     |
+| R10    |     33 kΩ           |   Resistor de película metálica     |
+| R11    |     200 Ω           |   Resistor de película metálica     |
+| R12    |     10 Ω           |   Resistor de película metálica     |
+| C1 / C3 / C11 / C15    |     470 nF          | Capacitor cerámico |
+| C2 / C6 / C7 / C12   |     100 nF          | Capacitor de poliéster |
+| C4 / C5 / C8 / C10 / C16   |     220 nF          | Capacitor de poliéster |
+| C9    |     10 nF          | Capacitor de poliéster |
+| C13    |     10 μF          | Capacitor electrolítico |
+| C14    |     220 μF          | Capacitor electrolítico |
+| U1 / U2   |     TL072CP      | Amplificador operacional |
+| U3    |     LM386            | Amplificador de potencia |
+| D1    |     1N4148            | Diodo rectificador |
+| Gain / Low / Mid / High    |     50 kΩ            | Potenciómetro logarítmico |
+| Volume    |     10 kΩ            | Potenciómetro logarítmico |
+| J1    |     -         | Jack estéreo 6,3 mm |
+| Battery / Speaker    |     -         | Terminal 01x02 5.08mm |
+| Clean / O.D. Switch    |     -         | Terminal 01x03 5.08mm |
 
 </div>
 
