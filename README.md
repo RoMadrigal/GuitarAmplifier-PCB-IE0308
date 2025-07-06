@@ -23,17 +23,17 @@ Una vez recibidas las placas de **PCBWay**, se procedió con el ensamblaje manua
 
 <div align="center">
 
-| ![PCB ensamblada - vista frontal](images/assembled_front.jpg) |
+| ![PCB ensamblada - vista frontal](images/PCB_Alone.jpg) |
 |:--:|
-| *PCB ensamblada - vista frontal* |
+| *PCB ensamblada - sin los componentes externos conectados* |
 
 </div>
 
 <div align="center">
 
-| ![PCB ensamblada - vista isométrica](images/assembled_iso.jpg) |
+| ![PCB ensamblada - vista isométrica](images/PCB_Build.jpg) |
 |:--:|
-| *PCB ensamblada - vista isométrica* |
+| *PCB ensamblada - con los componentes externos conectados* |
 
 </div>
 
@@ -136,21 +136,11 @@ Una vez definido el circuito final, se diseñó la PCB en *KiCad* con una arquit
 - **In2.Cu**: Plano de tierra (GND)
 - **B.Cu**: Ruta de señales
 
-Además, se agregaron zonas de serigrafía, agujeros de montaje, así como textos identificativos y logotipos en el *silkscreen* con el nombre del proyecto y los autores.
-
-<div align="center">
-
-| ![Vista 3D de la PCB](images/3D_overview.png) |
-|:--:|
-| *Vista 3D de la PCB en KiCad* |
-
-</div>
-
 ### Capas de la PCB
 
 <div align="center">
 
-| ![Capa F.Cu](images/F_Cu.png) |
+| ![Capa F.Cu](images/F.Cu.png) |
 |:-----------------------------:|
 |    *Capa superior (F.Cu)*     |
 
@@ -158,7 +148,7 @@ Además, se agregaron zonas de serigrafía, agujeros de montaje, así como texto
 
 <div align="center">
 
-| ![Capa B.Cu](images/B_Cu.png) |
+| ![Capa B.Cu](images/B.Cu.png) |
 |:-----------------------------:|
 |    *Capa inferior (B.Cu)*     |
 
@@ -166,7 +156,7 @@ Además, se agregaron zonas de serigrafía, agujeros de montaje, así como texto
 
 <div align="center">
 
-| ![In1.Cu - Alimentación](images/In1_Cu.png) |
+| ![In1.Cu - Alimentación](images/In1.Cu.png) |
 |:-------------------------------------------:|
 |      *Capa interna 1 - +9V / +4.5V*         |
 
@@ -174,8 +164,18 @@ Además, se agregaron zonas de serigrafía, agujeros de montaje, así como texto
 
 <div align="center">
 
-| ![In2.Cu - Tierra](images/In2_Cu.png) |
+| ![In2.Cu - Tierra](images/In2.Cu.png) |
 |:-------------------------------------:|
 |        *Capa interna 2 - GND*         |
+
+</div>
+
+Además, se agregaron zonas de serigrafía, agujeros de montaje, así como textos identificativos y logotipos en el *silkscreen* con el nombre del proyecto y los autores.
+
+<div align="center">
+
+| ![Vista 3D de la PCB](images/Vista3DSuperior.png) |
+|:--:|
+| *Vista 3D de la PCB en KiCad* |
 
 </div>
