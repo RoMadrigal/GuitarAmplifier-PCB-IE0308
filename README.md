@@ -105,7 +105,7 @@ A continuación se incluye una lista con los componentes utilizados en el diseñ
 | R7 / R8    |     1.5 kΩ     |   Resistor de película metálica     |
 | R9    |     3.3 kΩ           |   Resistor de película metálica     |
 | R10    |     33 kΩ           |   Resistor de película metálica     |
-| R11    |     200 Ω           |   Resistor de película metálica     |
+| R11    |     170 Ω           |   Resistor de película metálica     |
 | R12    |     10 Ω           |   Resistor de película metálica     |
 | C1 / C3 / C11 / C15    |     470 nF          | Capacitor cerámico |
 | C2 / C6 / C7 / C12   |     100 nF          | Capacitor de poliéster |
