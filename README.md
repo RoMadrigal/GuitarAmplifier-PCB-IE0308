@@ -171,8 +171,16 @@ Además, se agregaron zonas de serigrafía, agujeros de montaje, así como texto
 
 <div align="center">
 
-| ![Vista 3D de la PCB](images/Vista3DSuperior.png) |
+| ![Vista 3D Frontal de la PCB](images/Vista3DSuperior.png) |
 |:--:|
-| *Vista 3D de la PCB en KiCad* |
+| *Vista 3D Frontal de la PCB en KiCad* |
+
+</div>
+
+<div align="center">
+
+| ![Vista 3D Trasera de la PCB](images/Vista3DInferior.png) |
+|:--:|
+| *Vista 3D Trasera de la PCB en KiCad* |
 
 </div>
