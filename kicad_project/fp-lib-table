@@ -4,4 +4,5 @@
   (lib (name "TL072CP")(type "KiCad")(uri "D:/UCR/Carrera/Lab Electrónica I/Proyecto Final/Modelo TL072CP KiCAD/KiCADv6/footprints.pretty")(options "")(descr ""))
   (lib (name "EIELogo")(type "KiCad")(uri "${KIPRJMOD}/EIELogo.preety")(options "")(descr ""))
   (lib (name "PCBWayLogo")(type "KiCad")(uri "${KIPRJMOD}/PCBWayLogo.preety")(options "")(descr ""))
+  (lib (name "DibujoT")(type "KiCad")(uri "${KIPRJMOD}/DibujoT.preety")(options "")(descr ""))
 )
