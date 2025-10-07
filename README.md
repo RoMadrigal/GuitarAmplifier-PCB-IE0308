@@ -167,12 +167,44 @@ Una vez definido el circuito final, se diseñó la PCB en *KiCad* con una arquit
 
 </div>
 
-Además, se agregaron zonas de serigrafía, agujeros de montaje, así como textos identificativos y logotipos en el *silkscreen* con el nombre del proyecto y los autores.
+Además, se agregaron zonas de serigrafía, agujeros de montaje, así como textos identificativos y logotipos en el *silkscreen* con el nombre del proyecto y los autores. Como resultado final se muestra la PCB en el visor 3D de *KiCad* con y sin los modelos 3D 
 
 <div align="center">
 
-| ![Vista 3D de la PCB](images/Vista3DSuperior.png) |
+| ![Vista 3D Frontal de la PCB sin 3D](images/Vista3DSuperior.png) |
 |:--:|
-| *Vista 3D de la PCB en KiCad* |
+| *Vista 3D Frontal de la PCB en KiCad* |
+
+</div>
+
+<div align="center">
+
+| ![Vista 3D Trasera de la PCB sin 3D](images/Vista3DInferior.png) |
+|:--:|
+| *Vista 3D Trasera de la PCB en KiCad* |
+
+</div>
+
+<div align="center">
+
+| ![Vista 3D Frontal de la PCB con 3D](images/VistaModelos3DSuperior.png) |
+|:--:|
+| *Vista 3D Frontal de la PCB en KiCad con modelos 3D* |
+
+</div>
+
+<div align="center">
+
+| ![Vista 3D Lateral Izquierda de la PCB con 3D](images/VistaModelos3DLateral.png) |
+|:--:|
+| *Vista 3D Lateral Izquierda de la PCB en KiCad con modelos 3D* |
+
+</div>
+
+<div align="center">
+
+| ![Vista 3D Lateral Derecha de la PCB con 3D](images/VistaModelos3DLateral2.png) |
+|:--:|
+| *Vista 3D Lateral Derecha de la PCB en KiCad con modelos 3D* |
 
 </div>
