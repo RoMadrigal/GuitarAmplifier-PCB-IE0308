@@ -262,4 +262,12 @@
 		(layer "F.SilkS")
 		(uuid "ca707bd5-3e54-46b6-b6a1-171f54a8894b")
 	)
+	(group ""
+		(uuid "2e91c87e-cba4-4c02-b284-d8951f2e7643")
+		(members "15ea3a39-a9c4-4bd5-95fd-64e84d09c470" "2513d475-87fb-497d-b668-d8a4262902c2"
+			"3302976d-fed5-42fd-8a76-078c40b1bbf2" "562e06f0-55d0-47fe-bab5-33375629a280"
+			"70db56bb-3a32-435d-b279-68bca97124f4" "7d7e64c4-2c74-423e-b6d9-02e710e2c5c2"
+			"ca707bd5-3e54-46b6-b6a1-171f54a8894b" "e4808b92-ffa7-4fd6-904c-ddb9fd4de06e"
+		)
+	)
 )
