@@ -66,9 +66,9 @@ Gracias a su servicio confiable y de altísima calidad, logramos ensamblar y pro
 Este repositorio contiene dos directorios principales, cuyos contenidos son:
 
 - `kicad_project`: Contiene los archivos del esquemático, PCB y la configuarción del proyecto
-    - `CargadorWalkieTalkie.kicad_pcb`
-    - `CargadorWalkieTalkie.kicad_pro`
-    - `CargadorWalkieTalkie.kicad_sch`
+    - `GuitarAmplifier.kicad_pcb`
+    - `GuitarAmplifier.kicad_pro`
+    - `GuitarAmplifier.kicad_sch`
 
 - `outputs`: Contiene todos los archivos de salida de *KiCad*
 
